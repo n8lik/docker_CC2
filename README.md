@@ -1,1 +1,0 @@
-# docker_CC2
